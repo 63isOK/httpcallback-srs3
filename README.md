@@ -2,6 +2,14 @@
 
 ## 功能
 
+前置:
+
+- [x] 打印request
+- [ ] 解析request
+- [ ] 生产response
+
+功能:
+
 - [ ] client, connect/close
 - [ ] stream, publish/unpublish
 - [ ] dvr
